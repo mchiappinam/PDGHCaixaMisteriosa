@@ -1,0 +1,78 @@
+# # #   Copyright PDGH Minecraft Servers & HostLoad © 2013-XXXX   # # #
+# # #                Todos os direitos reservados!                # # #
+# # #   Uso apenas para a PDGH.com.br e https://HostLoad.com.br   # # #
+# # # Caso você tenha acesso a esse sistema,você é privilegiado! # # #
+itemOpenGUI: 46,1,name-&a&lCaixa &1&lM&2&lI&3&lS&4&lT&5&lE&6&lR&7&lI&8&lO&9&lS&d&lA-desc-&3-desc-&3Certifique de estar com o inventário vazio antes de abrir
+nome: '&1&lMIS&4&lTE&6&lRI&8&lO&9&lSA'
+tamanho: 27
+itensPorRodadaRandom: 150
+timer2Ticks: 120
+itens:
+- 322:1-322,5,name-&a&lby &1&lm&2&li&3&ls&4&lt&5&le&6&lr&7&li&8&lo
+- 322,15,name-&a&lby &1&lm&2&li&3&ls&4&lt&5&le&6&lr&7&li&8&lo
+- 310-311-312-313,1,projectileprotection-1-name-&a&lby &1&lm&2&li&3&ls&4&lt&5&le&6&lr&7&li&8&lo
+- 310-311-312-313,1,projectileprotection-2-protection-1-name-&a&lby &1&lm&2&li&3&ls&4&lt&5&le&6&lr&7&li&8&lo
+- 258,1,name-&a&lby &1&lm&2&li&3&ls&4&lt&5&le&6&lr&7&li&8&lo
+- 286,1,name-&a&lby &1&lm&2&li&3&ls&4&lt&5&le&6&lr&7&li&8&lo
+- 282,64,name-&a&lby &1&lm&2&li&3&ls&4&lt&5&le&6&lr&7&li&8&lo
+- 2256,1,name-&a&lby &1&lm&2&li&3&ls&4&lt&5&le&6&lr&7&li&8&lo
+- 2264,1,name-&a&lby &1&lm&2&li&3&ls&4&lt&5&le&6&lr&7&li&8&lo
+- 352,1,name-&a&lby &1&lm&2&li&3&ls&4&lt&5&le&6&lr&7&li&8&lo
+- 7,1,name-&a&lby &1&lm&2&li&3&ls&4&lt&5&le&6&lr&7&li&8&lo
+- 38,1,name-&a&lby &1&lm&2&li&3&ls&4&lt&5&le&6&lr&7&li&8&lo
+- 46,2,name-&a&lCaixa &1&lM&2&lI&3&lS&4&lT&5&lE&6&lR&7&lI&8&lO&9&lS&d&lA-desc-&3-desc-&3Certifique de estar com o inventário vazio antes de abrir
+- 54,1,name-&a&lby &1&lm&2&li&3&ls&4&lt&5&le&6&lr&7&li&8&lo
+- 58,1,name-&a&lby &1&lm&2&li&3&ls&4&lt&5&le&6&lr&7&li&8&lo-desc-&3=D
+- 384,64,name-&a&lby &1&lm&2&li&3&ls&4&lt&5&le&6&lr&7&li&8&lo
+- 257,1,name-&a&lby &1&lm&2&li&3&ls&4&lt&5&le&6&lr&7&li&8&lo
+- 285,1,name-&a&lby &1&lm&2&li&3&ls&4&lt&5&le&6&lr&7&li&8&lo
+- 370,64,none
+- 378,64,none
+- 370,64,none
+- 378,64,none
+traducaoItens:
+- GOLDEN_APPLE,maças douradas
+- DIAMOND_HELMET,elmo de diamante
+- DIAMOND_CHESTPLATE,peitoral de diamante
+- DIAMOND_LEGGINGS,calças de diamante
+- DIAMOND_BOOTS,botas de diamante
+- IRON_SHOVEL,Spas-12
+- BONE,P90
+- EXP_BOTTLE,frascos de encantamentos
+- WORKBENCH,bancada de trabalho
+- CHEST,baú
+- TNT,caixas misteriosas
+- IRON_AXE,L11
+- RECORD_9,Aug A3
+- GOLD_RECORD,Aug A3 Gold
+- RED_ROSE,rosa
+- MUSHROOM_SOUP,sopas
+- BEDROCK,rocha matriz
+- GOLD_AXE,Barrett M107
+- GOLD_PICKAXE,+RPG+
+- IRON_PICKAXE,-RPG-
+- MAGMA_CREAM,creme de magma
+- GHAST_TEAR,lágrima de ghast
+traducaoEncantamentos:
+- ARROW_DAMAGE,força
+- ARROW_FIRE,aspecto flamejante
+- ARROW_INFINITE,infinidade
+- ARROW_KNOCKBACK,knockback
+- DAMAGE_ALL,sharpness
+- DAMAGE_ARTHROPODS,ruína dos atrópodes
+- DAMAGE_UNDEAD,castigo
+- DIG_SPEED,eficiência
+- DURABILITY,durabilidade
+- FIRE_ASPECT,aspecto flamejante
+- KNOCKBACK,knockback
+- LOOT_BONUS_BLOCKS,fortuna
+- LOOT_BONUS_MOBS,pilhagem
+- OXYGEN,respiração
+- PROTECTION_ENVIRONMENTAL,proteção
+- PROTECTION_EXPLOSIONS,proteção contra explosões
+- PROTECTION_FALL,peso pena
+- PROTECTION_FIRE,proteção contra fogo
+- PROTECTION_PROJECTILE,proteção contra projéteis
+- SILK_TOUCH,toque suave
+- THORNS,espinhos
+- WATER_WORKER,afinidade aquática

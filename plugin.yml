@@ -1,0 +1,9 @@
+name: PDGHCaixaMisteriosa
+main: me.mchiappinam.pdghcaixamisteriosa.Main
+version: 1.0
+author: mchiappinam
+website: https://hostload.com.br && http://pdgh.com.br/
+commands:
+  caixa:
+    description: Info.
+    usage: /<command>
